@@ -10,7 +10,7 @@ Welcome to **The Forge** - a modular, open-source framework proposal that wants 
 The Forge is essentially a smart, flexible toolkit for connecting and controlling different virtual worlds. Here’s a simple breakdown:
 
 - **What It Is:**
-It’s built on the Adaptive Modular Processing (AMP) Framework, which starts simple but can grow into a sophisticated, self-adjusting system. Think of it as having a set of interchangeable building blocks (“Cogs”) and a central hub (API gateway) that links everything together.
+It’s built on the [Adaptive Modular Processing (AMP) Framework](https://github.com/nova8yte/amp-framework/tree/main/docs), which starts simple but can grow into a sophisticated, self-adjusting system. Think of it as having a set of interchangeable building blocks (“Cogs”) and a central hub (API gateway) that links everything together.
 - **What It Does:**
 It lets you take existing virtual environments like VRChat or Minecraft and make them talk to each other. Whether you’re a developer or a user, The Forge creates a seamless, unified experience across similar platforms.
 
