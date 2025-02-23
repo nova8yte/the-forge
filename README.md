@@ -3,7 +3,7 @@
 Welcome to **The Forge** - a modular, open-source framework proposal that wants to empower you to build, integrate, and scale dynamic virtual environments with ease.
 
 
-[📄 The Forge - White Paper](The%20Forge%20-%20White%20Paper.md)
+[📄 The Forge - White Paper](docs/The%20Forge%20-%20White%20Paper.md)
 
 ## What is The Forge?
 
